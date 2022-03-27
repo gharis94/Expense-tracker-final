@@ -1,0 +1,5 @@
+make header component which has the heading of 'expense tracker'
+make second component of account balance which shows the current balance 
+mae third component of account summary which shows the credit/debit amount
+mae fourth component of transectional history along with del button in order to the selected item from the list
+make fifth component of add/remove item with the amount section along with it

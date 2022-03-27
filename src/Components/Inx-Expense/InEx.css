@@ -1,0 +1,14 @@
+.container{
+    flex-direction: row;
+    display: flex;
+    justify-content:center;
+    
+}
+.income{
+    display: flex;
+    justify-content: space-evenly;
+}
+.expense {
+    display: flex;
+    justify-content: space-evenly;
+}
