@@ -4,5 +4,5 @@
 
 ### Apart from react, it also cover mostly used array methods reduce,filter,map and the code is written in ES6 syntax.
 
-### [Please click to visit the app](expense-tracker-final.surge.sh)
+### [Please click to visit the app](https://expense-tracker-final.surge.sh/)
 
